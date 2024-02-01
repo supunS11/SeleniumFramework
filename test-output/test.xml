@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<suite name="loan_department">  
+  <test name="Personal_loan">  
+    <classes>  
+      <class name="com.store.testcases.HomePageTest"/>  
+      <class name="com.store.testcases.IndexPageTest"/>  
+    </classes>  
+  </test> <!-- Test -->  
+</suite> <!-- Suite -->  
